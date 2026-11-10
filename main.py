@@ -26,7 +26,7 @@ def show_banner():
     {YELLOW}══════════════════════════════════════════════════{RESET}
     {MAGENTA}{BOLD}  ROMAN ALL SOCIAL MEDIA ACCOUNT BANNER TOOL{RESET}
     {YELLOW}══════════════════════════════════════════════════{RESET}
-    {GREEN} DEV: {WHITE}ROMAN HACKER {GREEN}| WA: {WHITE}923225083527{RESET}
+    {GREEN} DEV: {WHITE}jutt HACKER {GREEN}| WA: {WHITE}923225083527{RESET}
     {GREEN} TG: {WHITE}@devshahzaib315 {GREEN}| STATUS: {WHITE}SECURE{RESET}
     {YELLOW}══════════════════════════════════════════════════{RESET}
     """)
