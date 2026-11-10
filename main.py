@@ -8,23 +8,18 @@ import re
 RESET="\033[0m"; BOLD="\033[1m"; GREEN="\033[92m"; RED="\033[91m"; YELLOW="\033[93m"; BLUE="\033[94m"; CYAN="\033[96m"; WHITE="\033[97m"; MAGENTA="\033[95m"
 
 # ================== SETTINGS ==================
-WHATSAPP_LINK = "https://whatsapp.com/channel/0029VawwXaeEquiIR1CLXA30"
-TELEGRAM_LINK = "https://t.me/romanhacker2"
+WHATSAPP_LINK = "https://whatsapp.com/channel/0029Vb8VzXYHLHQe63mNcs3y"
+TELEGRAM_LINK = "https://t.me/devshahzaib315"
 # ==============================================
 
 def clear(): os.system("clear")
 
 def show_banner():
     print(f"""{CYAN}{BOLD}
-    ██████╗  ██████╗ ███╗   ███╗ █████╗ ███╗   ██╗
-    ██╔══██╗██╔═══██╗████╗ ████║██╔══██╗████╗  ██║
-    ██████╔╝██║   ██║██╔████╔██║███████║██╔██╗ ██║
-    ██╔══██╗██║   ██║██║╚██╔╝██║██╔══██║██║╚██╗██║
-    ██║  ██║╚██████╔╝██║ ╚═╝ ██║██║  ██║██║ ╚████║
-    ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══
+
     
     {YELLOW}══════════════════════════════════════════════════{RESET}
-    {MAGENTA}{BOLD}  ROMAN ALL SOCIAL MEDIA ACCOUNT BANNER TOOL{RESET}
+    {MAGENTA}{BOLD}  jutt ALL SOCIAL MEDIA ACCOUNT BANNER TOOL{RESET}
     {YELLOW}══════════════════════════════════════════════════{RESET}
     {GREEN} DEV: {WHITE}jutt HACKER {GREEN}| WA: {WHITE}923225083527{RESET}
     {GREEN} TG: {WHITE}@devshahzaib315 {GREEN}| STATUS: {WHITE}SECURE{RESET}
